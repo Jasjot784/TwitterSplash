@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TwitterSplash</string>
+    <string name="welcome_to_twitter">Welcome to twitter!</string>
 </resources>
